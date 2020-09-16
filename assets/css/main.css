@@ -2406,7 +2406,7 @@ input, select, textarea {
 			}
 
 			header br {
-				display: none;
+				display:block !important;
 			}
 
 			.container {
